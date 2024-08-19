@@ -14,7 +14,7 @@ Key Files:
  ## Install backend dependencies:
     cd backend
     npm install 
-    npm install dotenv
+    npm install dotenv nodemon
     npm install cors express mongoose
     
 
